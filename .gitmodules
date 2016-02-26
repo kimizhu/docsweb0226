@@ -1,0 +1,4 @@
+[submodule "themes for docsweb0226"]
+	path = docsweb0226/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = live
