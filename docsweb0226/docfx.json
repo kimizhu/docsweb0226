@@ -18,6 +18,7 @@
         "files": [
           "**/*.png",
           "**/*.jpg",
+          "**/*.html",
           "_themes/**"
         ],
         "exclude": [
