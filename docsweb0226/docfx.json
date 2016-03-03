@@ -19,6 +19,7 @@
           "**/*.png",
           "**/*.jpg",
           "**/*.html",
+          "**/*.css",
           "_themes/**"
         ],
         "exclude": [
